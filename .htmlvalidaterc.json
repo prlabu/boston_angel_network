@@ -1,0 +1,9 @@
+{
+  "root": true,
+  "extends": ["html-validate:standard"],
+  "rules": {
+    "no-redundant-role": "off",
+    "prefer-native-element": "off",
+    "tel-non-breaking": "off"
+  }
+}

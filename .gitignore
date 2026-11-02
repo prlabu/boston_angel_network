@@ -1,0 +1,18 @@
+node_modules/
+.DS_Store
+__pycache__/
+
+# Internal planning and design working files: kept on this computer, not in the repo
+PRODUCT.md
+SITE_PLAN.md
+.impeccable/
+design-source/
+.claude/
+
+# Rebuild-tool scratch output
+_site/
+tools/logo/.venv/
+tools/fonts/used_chars.json
+tools/fonts/missing.json
+tools/fonts/LeagueGothic-Regular-static.ttf
+tools/fonts/full-*.woff2
