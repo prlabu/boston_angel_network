@@ -101,7 +101,7 @@ svg.i {
 }
 .bar { display: flex; align-items: center; gap: 28px; min-height: 68px; }
 .home { display: flex; align-items: center; text-decoration: none; color: var(--blue); }
-.home svg { height: 34px; width: auto; }
+.home img { display: block; height: 56px; width: auto; }
 .nav { position: relative; display: flex; flex-wrap: wrap; gap: 4px 26px; margin-left: auto; font-weight: 700; font-size: .95rem; }
 .nav a { position: relative; z-index: 1; padding: 6px 0; text-decoration: none; }
 .nav a[aria-current] { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: .35em; }
