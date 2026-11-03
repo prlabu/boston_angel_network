@@ -36,7 +36,7 @@ Open `site/index.html` in any text editor. The sections, top to bottom:
 3. **Give** (`id="give"`): the three facts, the kickoff goal, and the Donate and Share buttons.
 4. **Footer** (`id="contact"`): the organization line, contact, and the groups we stand alongside.
 
-The copy follows Zahra's doc "10.31.2026 External Communications Drafts". The lede is its short description; "Where we fit" is its medium description. Three facts are corrected against the sources: LUCE's line is the "LUCE Defense Hotline"; LUCE points supporters to Operation Milkweed rather than coordinating it; the bond fund is the "Beyond Bond & Legal Defense Fund", which BIJAN started and which is now its own 501(c)(3).
+The copy follows Zahra's doc "10.31.2026 External Communications Drafts". The lede is its short description; "Where we fit" is its medium description. Three facts are corrected against the sources: LUCE's line is the "LUCE Defense Hotline"; LUCE points supporters to Operation Milkweed rather than coordinating it; the bond fund is the "Beyond Bond & Legal Defense Fund", which BIJAN started and which is now its own 501(c)(3). Per a BIJAN representative (Nov 2026), describe it as bond support that contributes toward bond payments, never as paying bonds outright: bonds have grown too large to promise that.
 
 Leave the long `<path d="…">` blocks alone: they're the logo.
 
