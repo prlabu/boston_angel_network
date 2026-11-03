@@ -1,4 +1,4 @@
-// Boston Angel Fund — progressive enhancement only. The page works and reads
+// Boston Angel Network — progressive enhancement only. The page works and reads
 // fully without this file: copy/share buttons stay hidden, and every link
 // still goes where it says.
 (function () {

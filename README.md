@@ -1,6 +1,6 @@
-# Boston Angel Fund website
+# Boston Angel Network website
 
-The public website for Boston Angel Network Inc. (501(c)(3), EIN 41-4383401) and its Boston Angel Fund. It's one static page with no build step, no framework, no cookies, no analytics and no third-party requests. The only things that leave the site are the visitor's own clicks to Chuffed, LUCE and BIJAN.
+The public website for Boston Angel Network Inc. (501(c)(3), EIN 41-4383401), which hosts the Boston Angel Fund. It's one static page with no build step, no framework, no cookies, no analytics and no third-party requests. The only things that leave the site are the visitor's own clicks to Chuffed, LUCE and BIJAN.
 
 ## What's in this folder
 
