@@ -418,7 +418,7 @@ The design depends on the copy staying plain, factual and confirmed.
 ## Maintenance
 
 - **Where things live:** all copy is in `site/index.html`; tokens are the custom properties at the top of `site/css/site.css` (`--blue`, `--sun`, `--over`, `--paper`, `--gutter`, `--ease`, `--rule`); behaviour is in `site/js/site.js`. There is no build step.
-- **The goal figure:** the $1,000 goal appears twice on the page, in the Give door's sentence and in the Give box figure. Change both together. The share image (`site/assets/og-image.png`, rendered from `tools/og/og.html`) does not print the figure today; if it ever does, it becomes a third place to change.
+- **The goal figure:** the $3,000 goal appears twice on the page, in the Give door's sentence and in the Give box figure. Change both together. The share image (`site/assets/og-image.png`, rendered from `tools/og/og.html`) does not print the figure today; if it ever does, it becomes a third place to change.
 - **The share image:** `tools/og/og.html` repeats the headline, the inks and the type at 1200 × 630. Re-render it whenever the headline or the inks change (the command is in `README.md`).
 - **Fonts:** the WOFF2 files are Latin subsets. After adding copy with new characters (another language, new symbols), run the checks in `tools/fonts/` and rebuild if any character is missing, or it will fall back to a system face.
 - **Security policy:** the page's Content-Security-Policy allows only same-origin scripts, styles, fonts and images. Keep styles in `site.css` and scripts in `site.js`; inline `<style>`, `style=""` attributes and inline scripts are blocked.

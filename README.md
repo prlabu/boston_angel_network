@@ -40,7 +40,7 @@ The copy follows Zahra's doc "10.31.2026 External Communications Drafts". The le
 
 Leave the long `<path d="…">` blocks alone: they're the logo.
 
-When the fundraising goal changes, update `$1,000` in the hero's Give door and in the Give section. Then rebuild the share image:
+When the fundraising goal changes, update `$3,000` in the hero's Give door and in the Give section. Then rebuild the share image:
 
 ```bash
 "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --hide-scrollbars --allow-file-access-from-files --window-size=1200,630 --screenshot=site/assets/og-image.png "file://$PWD/tools/og/og.html"
